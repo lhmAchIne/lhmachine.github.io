@@ -705,3 +705,8 @@ version: 5.1.1
 reward_comment: 坚持原创技术分享，您的支持将鼓励我继续创作！
 wechatpay: /assets/images/wechat_reward.png
 alipay: /assets/images/ali_reward.jpg
+
+leancloud_visitors:
+  enable: true
+  app_id: LQcwjBW3E1MNsNMeES5irVrg-gzGzoHsz
+  app_key: gnJKulzfploq4qSrfcOpW99f
