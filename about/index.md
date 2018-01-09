@@ -5,6 +5,8 @@ layout: page
 
 # 《坦白书》节选
 
+
+
 **我所有的自负皆来自我的自卑，**
 
 **所有的英雄气概都来自于我的软弱。**
@@ -23,4 +25,4 @@ layout: page
 
 我并不是我。
 
-<p align=right>————lhmAchIne</p>
+————lhmAchIne
