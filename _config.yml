@@ -425,7 +425,7 @@ changyan:
 
 # Google Webmaster tools verification setting
 # See: https://www.google.com/webmasters/
-#google_site_verification:
+google_site_verification: 106a9725e1d4178f
 
 # Google Analytics
 #google_analytics:
