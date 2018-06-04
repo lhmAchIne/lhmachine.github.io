@@ -1,5 +1,3 @@
-这是我的博客
+[lhmachine's Blog](https://blog.lhmachine.top)
 
-你爱咋咋地
-
-​                      ————lhmachine
+[lhmachine's HomePage](http://lhmachine.top)
