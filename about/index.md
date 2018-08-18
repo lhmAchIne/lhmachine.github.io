@@ -23,4 +23,4 @@ layout: page
 
 [点击发送邮件](mailto:lhmachine@qq.com)
 
-联系邮箱：lhmachine@qq.com
+联系邮箱：h@lhmachine.cn
