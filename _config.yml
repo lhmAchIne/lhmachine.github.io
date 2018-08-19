@@ -4,7 +4,7 @@
 # ---------------------------------------------------------------
 
 # Site
-title: 大吉大利，今晚吃鸡
+title: 深海的小鲤鱼
 subtitle:
 description: 祝我孤独且长命百岁
 author: lhmachine
@@ -78,7 +78,7 @@ plugins:
 favicon: /assets/web_ico.ico
 
 # Set default keywords (Use a comma to separate)
-keywords: "lhmachine, 大吉大利今晚吃鸡"
+keywords: "lhmachine, 深海的小鲤鱼"
 
 # Set rss to false to disable feed link.
 # Leave rss as empty to use site's feed link.
@@ -121,7 +121,7 @@ menu:
   about: /about/
   archives: /archives/
   #tags: /tags/
-  #sitemap: /sitemap.xml
+  sitemap: /sitemap.xml
   #commonweal: /404.html
 
 
