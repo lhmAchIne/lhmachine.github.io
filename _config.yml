@@ -78,7 +78,7 @@ plugins:
 favicon: /assets/web_ico.ico
 
 # Set default keywords (Use a comma to separate)
-keywords: "lhmachine, 深海的小鲤鱼"
+keywords: "lhmachine,深海的小鲤鱼"
 
 # Set rss to false to disable feed link.
 # Leave rss as empty to use site's feed link.
