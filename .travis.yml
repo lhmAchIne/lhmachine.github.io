@@ -23,7 +23,7 @@ after_script:
 # E: Build LifeCycle
 branches:
   only:
-    - hexo-source
+    - master
 env:
  global:
    - GH_REF: https://github.com/lhmAchIne/lhmachine.github.io
